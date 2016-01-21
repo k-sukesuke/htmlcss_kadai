@@ -67,9 +67,11 @@ nav li a {
     text-decoration: none;
 }
 
-nav li.nav2 a,nav a:hover {
+/* 1/19 指摘修正 */
+nav a:hover {
     background-color: #ccc;
 }
+
 
 /*
 20160117v1の記載
